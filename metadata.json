@@ -1,0 +1,7 @@
+{
+  "name": "Nossa Música- Angola's Beat Store",
+  "description": "Uma plataforma angolana premium para compra de beats e instrumentais com pagamentos via Referência Multicaixa (AOA), download automático e geração de licenças.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
